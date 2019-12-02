@@ -1,0 +1,259 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author mynukeviet (contact@mynukeviet.net)
+ * @Copyright (C) 2016 mynukeviet. All rights reserved
+ * @Createdate Sun, 20 Nov 2016 07:31:04 GMT
+ */
+.viewlist .panel-body ul li {
+	margin-bottom: 0;
+	line-height: 25px;
+	font-size: 13px
+}
+
+.viewlist .list-info em, .detail ul.list-content li em, .detail ul.list-contact-info li em
+	{
+	width: 18px
+}
+
+.viewlist .image {
+	margin-right: 10px
+}
+
+.viewlist h2 {
+	display: inline-block;
+	margin-top: 0;
+}
+
+.viewlist span.type {
+	font-size: 13px;
+	color: #999;
+	font-weight: normal;
+}
+
+.money {
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC3300
+}
+
+.detail ul.list-content {
+	padding: 0
+}
+
+.content ul.box-note{
+	line-height: 25px;
+	list-style: disc;
+	padding-left: 18px
+}
+
+.detail ul.list-content li {
+	line-height: 25px
+}
+
+.detail ul.list-content li label {
+	width: 100px
+}
+
+.detail ul.list-title {
+	margin-top: 5px;
+	font-size: 12px;
+	color: #999
+}
+
+.detail ul.list-title li {
+	margin-right: 10px
+}
+
+.fb-like, .fb-share-button {
+	margin: 0 25px 0 10px;
+	top: -5px;
+}
+
+.fb-like {
+	height: 30px;
+	margin-right: 30px;
+	margin-top: 5px;
+	margin-left: 0
+}
+
+.socialicon {
+	height: 20px
+}
+
+.viewcat hr {
+	margin-top: 8px
+}
+
+.plupload_header {
+	display: none
+}
+
+#uploader_container {
+	padding: 0 !important
+}
+
+.plupload_scroll .plupload_filelist {
+	height: 287px !important
+}
+
+li.plupload_droptext {
+	line-height: 260px !important
+}
+
+#imagelist .image {
+	border: solid 1px #ddd;
+	padding: 5px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+#imagelist .images_main {
+	margin-top: 5px;
+	display: block;
+}
+
+#imagelist .image em {
+	position: absolute;
+	top: -7px;
+	right: -11px;
+	cursor: pointer;
+	color: red
+}
+
+#imagelist .is_main {
+	background-color: #EBF8A4;
+}
+
+#auction ul li label {
+	width: 150px
+}
+
+#messagesDiv div {
+	padding: 5px;
+	border-bottom: solid 1px #F3F3F3
+}
+
+#messagesDiv div em {
+	width: 120px;
+	display: inline-block;
+	overflow: hidden;
+	float: left
+}
+
+.company .logo {
+	position: absolute;
+	top: 14px;
+	right: 0
+}
+
+.company ul.company-info label {
+	width: 130px
+}
+
+table.table-middle td {
+	vertical-align: middle !important
+}
+
+table.table-middle td span.help-block, table.table-middle td span.help-block ul
+	{
+	margin-bottom: 0;
+	font-size: 12px
+}
+
+ul .vip {
+	color: red
+}
+
+ul .hot {
+	color: blue
+}
+
+#frm-content .select2-container {
+	width: 100% !important
+}
+
+.viewlist-simple .help-block {
+	margin-bottom: 0
+}
+
+.viewlist-simple h3 {
+	margin-top: 0
+}
+
+.userarea a.btn{
+	color: #333
+}
+
+.select2-required .select2-selection__rendered{
+    background-image: url(../images/icons/required.png);
+    background-position: right 4px;
+    background-repeat: no-repeat;
+}
+
+ul.block_post_title li{
+	margin-bottom: 15px
+}
+
+ul.block_post_title li h3{
+	margin-top: 0	
+}
+
+.detail #content ul {
+	list-style: disc;
+    margin-top: 0;
+    margin-bottom: 9px;
+    padding-left: 50px;
+}
+
+
+.viewcat .subcat a{
+    font-size: 13px;
+    border: solid 1px #ddd;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 4px;
+    margin-bottom: 5px
+}
+
+.main-category .image{
+	height: 100px
+}
+
+.main-category .image img{
+	max-height: 100px
+}
+
+.main-category .title{
+	font-size: 15px;
+    display: block;
+    height: 50px;
+    overflow: hidden;
+}
+
+.refresh ul{
+	list-style: disc;
+}
+
+@media (min-width:768px) {
+	.money{
+		font-size: 15px
+	}	
+}
+
+.lSSlideOuter .lSPager.lSGallery .active{
+	padding: 2px;
+	background: #064481;
+}
+
+.lSSlideOuter .lSPager.lSGallery li.active, .lSSlideOuter .lSPager.lSGallery li:hover{
+	border-radius: 0 !important
+}
+
+.viewmain-cat .panel-heading a{
+    color: #fff
+}
+
+#content ul.nav-tabs{
+    padding: 0
+}
